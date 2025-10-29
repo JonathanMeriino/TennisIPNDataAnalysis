@@ -25,3 +25,5 @@ The Power BI report(IPN20252.pdf) yielding the following results:
 - Only 27 of those registered had any experience in the sport.
 - The training time with the highest number of players was in the evening (58 registered).
 - The schools with the highest number of enrollments were: 1- ESCOM , 2 . ESIQIE , 3. ESIA Zacatenco, 4. ESIME Zacatenco 
+
+![Distribución de estilos de juego](images/Inscripcion2025-2.png)
