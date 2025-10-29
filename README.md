@@ -15,3 +15,13 @@ Tools Used
 - Spyder (IDE)
 - Excel
 - Power BI (Data Visualization)
+
+ Results
+
+The Power BI report( yielding the following results:
+
+- A total of 94 participants were registered.
+- 51 registrations were male and 43 female.
+- Only 27 of those registered had any experience in the sport.
+- The training time with the highest number of players was in the evening (58 registered).
+- The schools with the highest number of enrollments were: 1- ESCOM , 2 . ESIQIE , 3. ESIA Zacatenco, 4. ESIME Zacatenco 
