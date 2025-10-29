@@ -18,7 +18,7 @@ Tools Used
 
  Results
 
-The Power BI report( yielding the following results:
+The Power BI report(IPN20252.pdf) yielding the following results:
 
 - A total of 94 participants were registered.
 - 51 registrations were male and 43 female.
